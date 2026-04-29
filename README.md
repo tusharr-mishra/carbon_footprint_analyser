@@ -51,3 +51,21 @@ Complete — open to improvements in UI and additional emission categories.
 ---
 
 ## Project Structure
+
+## 📸 Output
+
+### Terminal Output
+![Terminal Output](terminal-output-1.png)
+![Terminal Output](terminal-output-2.png)
+![Terminal Output](terminal-output-3.png)
+
+### GUI Mode
+![GUI Preview](gui-output.png)
+
+### Sample Run
+```bash
+Enter distance traveled (km): 50
+Transport type: Car
+Energy usage (kWh): 10
+
+Estimated Carbon Footprint: 18.5 kg CO2/day
